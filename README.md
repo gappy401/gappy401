@@ -75,7 +75,7 @@ Built a production-ready recommendation system that revolutionized user engageme
 
 **Tech Stack**: Python, Apache Spark, MLlib, Pandas, Redis, Kafka
 
-[🔗 View Project](https://github.com/nandita/movie-recommender)
+[View Project](https://github.com/nandita/movie-recommender)
 </details>
 
 <details>
@@ -103,7 +103,7 @@ Developed cutting-edge deep learning system to protect endangered North Atlantic
 
 **Tech Stack**: TensorFlow, Keras, Librosa, OpenCV, Signal Processing, Docker
 
-[🔗 View Project](https://github.com/nandita/whale-detection)
+[View Project](https://github.com/nandita/whale-detection)
 </details>
 
 <details>
@@ -131,7 +131,7 @@ Engineered comprehensive analytics platform that transformed customer understand
 
 **Tech Stack**: Python, SQL, Tableau, Snowflake, scikit-learn, Statistical Modeling
 
-[🔗 View Project](https://github.com/nandita/customer-analytics)
+[View Project](https://github.com/nandita/customer-analytics)
 </details>
 
 <details>
@@ -159,7 +159,7 @@ Revolutionized marketing budget allocation through advanced econometric modeling
 
 **Tech Stack**: R, Python, Stan (Bayesian), Statistical Modeling, Tableau, Google Analytics
 
-[🔗 View Project](https://github.com/nandita/marketing-mix-model)
+[View Project](https://github.com/nandita/marketing-mix-model)
 </details>
 
 <details>
@@ -187,7 +187,7 @@ Created sophisticated early warning system for sovereign debt crises using deep 
 
 **Tech Stack**: TensorFlow, LSTM, Feature Engineering, Economic APIs, Time Series Analysis
 
-[🔗 View Project](https://github.com/nandita/debt-prediction)
+[ View Project](https://github.com/nandita/debt-prediction)
 </details>
 
 <details>
@@ -215,7 +215,7 @@ Transformed energy grid management through ML-powered consumption forecasting an
 
 **Tech Stack**: XGBoost, Python, IoT Data Processing, Apache Kafka, Time Series Analysis
 
-[🔗 View Project](https://github.com/nandita/energy-forecasting)
+[View Project](https://github.com/nandita/energy-forecasting)
 </details>
 
 ---
