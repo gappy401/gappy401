@@ -10,7 +10,6 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandita-ghildyal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nandita.ghildyal@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B1538?style=flat-square&logo=google-chrome&logoColor=white)](https://nandita-portfolio.com)
 
 </div>
 
@@ -18,7 +17,14 @@
 
 ## 💫 About
 
-Passionate ML Engineer with experience at **Gradiant AI** and **Dell Technologies**, specializing in building scalable AI solutions that solve complex real-world problems. From developing conservation technology for whale detection to optimizing million-dollar marketing campaigns, I bridge the gap between cutting-edge research and practical business impact.
+---
+
+**Machine Learning Engineer** with experience at **Gradiant AI** and **Dell Technologies**, focused on creating **scalable AI solutions** that solve real-world problems. I love working with **data**—whether it’s **building databases** or **using them to uncover insights** that drive smarter decisions.  
+
+From developing **AI-powered whale detection technology** to improving **marketing strategies** for major brands, I bring **data-driven thinking** to every challenge. My goal is to connect **advanced analytics** with **practical business solutions**, making complex data **accessible, efficient, and valuable**.  
+
+
+
 
 ---
 
