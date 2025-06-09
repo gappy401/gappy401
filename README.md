@@ -2,7 +2,7 @@
 
 <div align="right">
 
-[About](#-about) | [Tech Stack](#-tech-stack--skills) | [Projects](#-projects) | [Experience](#-experience-timeline) | [Education](#-education) | [Contact](#-contact)
+[About](#-about) | [Tech Stack](#-skills) | [Projects](#-projects) | [Experience](#-experience-timeline) | [Education](#-education) | [Contact](#-contact)
 
 </div>
 
@@ -59,7 +59,7 @@ From developing IIoT ML Algorithms to improving marketing strategies, I like to 
 **Bachelor of Information Technology** - *Manipal Institute of Technology* (2017-2021)  
 
 ---
-## Tech Stack & Skills  
+## Skills  
 
 #### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Drill](https://img.shields.io/badge/Drill-FFA500?style=flat-square) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
