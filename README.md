@@ -244,8 +244,7 @@ Transformed energy grid management through ML-powered consumption forecasting an
 
 ## 💼 Experience Timeline
 
-```
-# 💼 Experience Timeline
+
 
 ## 🚀 ML Engineer • Gradiant AI (June 2024 - August 2024) | Boston, MA, USA
 - Developed a **hybrid CNN architecture** with **attention mechanisms** in **PyTorch & TensorFlow**, improving **anomaly detection accuracy (85% → 91%)**
@@ -265,7 +264,7 @@ Transformed energy grid management through ML-powered consumption forecasting an
 ## 🎓 Dell Live Intern • Dell Technologies (June 2020 - September 2020) | Bangalore, India
 - Developed **distributed web crawlers** with **Selenium**, tracking competitor pricing trends, cutting **manual workload by 85%**
 - Built **ETL pipelines** using **PySpark & Airflow**, processing **large-scale transaction data** for optimized **pricing adjustments**
-```
+
 
 ---
 
