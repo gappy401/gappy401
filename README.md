@@ -245,46 +245,33 @@ Transformed energy grid management through ML-powered consumption forecasting an
 ## 💼 Experience Timeline
 
 ```
-2023 ────────────────────── Present
- │
- ├─ 🚀 ML Engineer • Gradiant AI
- │   ├─ Production ML pipelines serving 100K+ daily predictions
- │   ├─ Led team of 4 engineers building recommendation systems  
- │   ├─ Reduced model inference time by 40% through optimization
- │   └─ Architected real-time feature store with sub-10ms latency
- │
-2021 ──────────────────────── 2022
- │
- ├─ 💻 Data Scientist • Dell Technologies
- │   ├─ Built predictive models for supply chain optimization
- │   ├─ Created automated reporting dashboards (20+ hours/week saved)
- │   ├─ Implemented A/B testing framework for product features
- │   └─ Developed anomaly detection system reducing downtime by 35%
- │
-2020 ──────────────────────── 2021
- │
- ├─ 🎓 MS Applied Data Science • Syracuse University
- │   ├─ GPA: 3.8/4.0 • Dean's List (4 semesters)
- │   ├─ Research: Deep Learning for Audio Classification
- │   ├─ Teaching Assistant: Machine Learning Fundamentals
- │   └─ Capstone: Whale Call Detection System (91.73% accuracy)
- │
-2018 ──────────────────────── 2020
- │
- └─ 📊 Data Analyst • TechStart Inc
-     ├─ Analyzed customer behavior patterns using SQL and Python
-     ├─ Built predictive models increasing sales conversion by 18%
-     ├─ Created executive dashboards and KPI tracking systems
-     └─ Collaborated with cross-functional teams on product analytics
+# 💼 Experience Timeline
+
+## 🚀 ML Engineer • Gradiant AI (June 2024 - August 2024) | Boston, MA, USA
+- Developed a **hybrid CNN architecture** with **attention mechanisms** in **PyTorch & TensorFlow**, improving **anomaly detection accuracy (85% → 91%)**
+- Implemented **federated learning strategies** to optimize server-sensor communication, reducing **overhead by 75%** while maintaining model performance
+
+## 💻 Business Intelligence Analyst • Dell Technologies (July 2021 - June 2023) | Bangalore, India
+- Built **predictive pricing models** using **Python, SQL, Snowflake**, driving a **23% increase in revenue**
+- Designed **A/B testing experiments** optimizing pricing tiers, improving **customer retention by 19%**
+- Automated pricing workflows with **Airflow**, reducing manual quote adjustments by **40%**
+- Created **competitive pricing dashboards** in **Tableau**, enabling faster data-driven decisions
+
+## 📊 Data Analyst • Dell Technologies (February 2021 - June 2021) | Bangalore, India
+- Developed a **parts recommendation system** leveraging **AWS S3 & SageMaker**, optimizing inventory planning and **reducing workload by 20%**
+- Designed **dynamic pricing dashboards** integrating **real-time competitive insights**
+- Conducted **ad hoc analysis** using **Excel & pivot tables**, identifying inefficiencies in **data storage**
+
+## 🎓 Dell Live Intern • Dell Technologies (June 2020 - September 2020) | Bangalore, India
+- Developed **distributed web crawlers** with **Selenium**, tracking competitor pricing trends, cutting **manual workload by 85%**
+- Built **ETL pipelines** using **PySpark & Airflow**, processing **large-scale transaction data** for optimized **pricing adjustments**
 ```
 
 ---
 
 ## 🎓 Education & Research
 
-<table>
-<tr>
-<td width="60%">
+
 
 **Master of Science in Applied Data Science**  
 *Syracuse University* • 2020-2021  
@@ -298,9 +285,6 @@ Transformed energy grid management through ML-powered consumption forecasting an
 - Computer Vision & Image Processing
 - Big Data Analytics with Spark
 
-</td>
-</tr>
-</table>
 
 
 
