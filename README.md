@@ -218,29 +218,7 @@ Transformed energy grid management through ML-powered consumption forecasting an
 [View Project](https://github.com/nandita/energy-forecasting)
 </details>
 
----
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| 🎯 Certifications | 🏅 Competitions | 📚 Publications |
-|---|---|---|
-| AWS ML Specialist | Kaggle Expert (Top 5%) | Marine Biology Journal |
-| Google Cloud Data Engineer | DrivenData Winner | IEEE Conference Paper |
-| Azure Data Scientist | Kaggle Grandmaster Track | ACM Digital Library |
-| Databricks Certified | 3x Competition Medals | Research Gate Profile |
-
-</div>
-
-**Recent Highlights:**
-- 🏆 **Outstanding Graduate Student Award** - Syracuse University (2021)
-- 📈 **Top 1% Kaggle Contributor** - Audio Classification Track
-- 🎤 **Keynote Speaker** - International Conference on Marine Conservation
-- 💡 **Patent Pending** - "Real-time Marine Species Detection System"
-- 📊 **Research Impact** - 500+ citations, h-index: 8
-
----
 
 ## 💼 Experience Timeline
 
