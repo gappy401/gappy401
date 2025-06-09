@@ -116,6 +116,4 @@ Tech Stack: XGBoost, Random Forests, Neural Networks (MLP), R
 
 ## Contact  
 
-[Email](mailto:nanditaghildyal@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/nghildyal/)  
-[GitHub](https://github.com/gappy401)  
+[Email](mailto:nanditaghildyal@gmail.com)  [LinkedIn](https://www.linkedin.com/in/nghildyal/)  [GitHub](https://github.com/gappy401)  
