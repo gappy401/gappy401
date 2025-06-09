@@ -46,6 +46,35 @@ From developing **AI-powered whale detection technology** to improving **marketi
 
 </div>
 
+## ⚡ Tech Stack & Projects
+
+#### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+
+## 🏆 Projects
+
+### 📡 Customer Behavior & Streaming Insights for Spectrum
+![Streaming Data Analysis](https://source.unsplash.com/600x300/?data,analytics)
+- **Tech Stack:** Apache Hive, AWS S3, K-Means Clustering, SQL
+- Designed a **large-scale customer segmentation model** using HiveQL & SQL
+- Applied **K-Means clustering, DBSCAN, and decision trees** to classify users
+- **Reduced reporting latency by 35%** for customer retention strategies
+
+### ⚡ Energy Prediction Project
+![Energy Data Forecasting](https://source.unsplash.com/600x300/?energy,data)
+- **Tech Stack:** XGBoost, Random Forests, Neural Networks, R
+- Developed a **supervised forecasting framework** predicting hourly usage patterns
+- Achieved **90% accuracy** in energy consumption predictions
+- Identified **key drivers of energy consumption**, leading to **28% efficiency gains**
+
+### 🌊 Whale Call Detection System (Capstone Project)
+![AI for Conservation](https://source.unsplash.com/600x300/?ocean,ai)
+- **Tech Stack:** Deep Learning, CNNs, TensorFlow, Audio Processing
+- Built a **deep learning model** for real-time whale call detection
+- Achieved **91.73% accuracy** in classifying whale sounds using spectrogram analysis
+- Contributed to **marine conservation research** with AI-driven insights
 
 
 
