@@ -56,21 +56,18 @@ From developing **AI-powered whale detection technology** to improving **marketi
 ## 🏆 Projects
 
 ### 📡 Customer Behavior & Streaming Insights for Spectrum
-![Streaming Data Analysis](https://source.unsplash.com/600x300/?data,analytics)
 - **Tech Stack:** Apache Hive, AWS S3, K-Means Clustering, SQL
 - Designed a **large-scale customer segmentation model** using HiveQL & SQL
 - Applied **K-Means clustering, DBSCAN, and decision trees** to classify users
 - **Reduced reporting latency by 35%** for customer retention strategies
 
 ### ⚡ Energy Prediction Project
-![Energy Data Forecasting](https://source.unsplash.com/600x300/?energy,data)
 - **Tech Stack:** XGBoost, Random Forests, Neural Networks, R
 - Developed a **supervised forecasting framework** predicting hourly usage patterns
 - Achieved **90% accuracy** in energy consumption predictions
 - Identified **key drivers of energy consumption**, leading to **28% efficiency gains**
 
 ### 🌊 Whale Call Detection System (Capstone Project)
-![AI for Conservation](https://source.unsplash.com/600x300/?ocean,ai)
 - **Tech Stack:** Deep Learning, CNNs, TensorFlow, Audio Processing
 - Built a **deep learning model** for real-time whale call detection
 - Achieved **91.73% accuracy** in classifying whale sounds using spectrogram analysis
@@ -79,7 +76,6 @@ From developing **AI-powered whale detection technology** to improving **marketi
 
 
 ## 💼 Experience Timeline
-
 
 
 ## 🚀 ML Engineer • Gradiant AI (June 2024 - August 2024) | Boston, MA, USA
