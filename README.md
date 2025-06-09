@@ -24,7 +24,7 @@ From developing **AI-powered whale detection technology** to improving **marketi
 
 
 
-<div align="center">
+<div>
 
 ### ⚡ Tech Stack & Skills
 
