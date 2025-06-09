@@ -1,13 +1,13 @@
 # Nandita Ghildyal
 
 <div align="center">
-  <img width="150" height="150" src="https://images.unsplash.com/photo-1494790108755-2616c669a3a4?w=300&h=300&fit=crop&crop=face&auto=format" style="border-radius: 50%; border: 4px solid #8B1538;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B1538&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Data+Scientist;MS+Applied+Data+Science;Building+AI+Solutions" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <h2>ML Engineer & Data Scientist</h2>
   <p><strong>MS Applied Data Science</strong> • Syracuse University</p>
-  <p>Building AI solutions that drive real-world impact</p>
 </div>
 
 <div align="center">
