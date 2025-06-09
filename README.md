@@ -69,11 +69,7 @@ Bachelor of Information Technology - Manipal Institute of Technology (2017-2021)
 ![AWS Sagemaker](https://img.shields.io/badge/AWS%20Sagemaker-232F3E?style=flat-square&logo=amazonaws)  ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazonaws)  ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=amazonaws)  ![AWS DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=flat-square&logo=amazonaws)  ![GCP BigQuery](https://img.shields.io/badge/GCP%20BigQuery-4285F4?style=flat-square&logo=googlecloud)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter)  
 
 ### Soft Skills  
-#### - Attention to Detail  
-#### - Stakeholder Management  
-#### - Cross-functional Collaboration  
-#### - Problem-solving  
-#### - Process Documentation & Optimization  
+#### - Attention to Detail - Stakeholder Management - Cross-functional Collaboration - Problem-solving - Process Documentation & Optimization  
 ---
 
 ## Projects  
