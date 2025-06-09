@@ -1,9 +1,5 @@
 # Nandita Ghildyal  
 
-<div align="right">
-[About](#about) | [Skills](#skills) | [Projects](#projects) | [Experience](#experience-timeline) | [Education](#education) | [Contact](#contact)
-</div>
-
 ---
 
 ## About  
