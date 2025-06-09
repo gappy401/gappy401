@@ -54,43 +54,19 @@ Bachelor of Information Technology - Manipal Institute of Technology (2017-2021)
 
 
 ### Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=flat-square&logo=apachespark)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql)  
-![Drill](https://img.shields.io/badge/Drill-FFA500?style=flat-square)  
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=flat-square&logo=apachespark)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql) ![Drill](https://img.shields.io/badge/Drill-FFA500?style=flat-square)  ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)  
 
 ### BI Tools  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi)  
-![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=flat-square&logo=amazon)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi)  ![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=flat-square&logo=amazon)  
 
 ### Databases  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)  
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)  ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra)  
 
 ### Frameworks  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)  
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly)  
-![statsmodels](https://img.shields.io/badge/statsmodels-FF6F00?style=flat-square)  
-![Hadoop](https://img.shields.io/badge/Hadoop-FF6600?style=flat-square&logo=apachehadoop)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)  ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python)  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly)  ![statsmodels](https://img.shields.io/badge/statsmodels-FF6F00?style=flat-square)  ![Hadoop](https://img.shields.io/badge/Hadoop-FF6600?style=flat-square&logo=apachehadoop)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)  
 
 ### Cloud Platforms  
-![AWS Sagemaker](https://img.shields.io/badge/AWS%20Sagemaker-232F3E?style=flat-square&logo=amazonaws)  
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazonaws)  
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=amazonaws)  
-![AWS DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=flat-square&logo=amazonaws)  
-![GCP BigQuery](https://img.shields.io/badge/GCP%20BigQuery-4285F4?style=flat-square&logo=googlecloud)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter)  
+![AWS Sagemaker](https://img.shields.io/badge/AWS%20Sagemaker-232F3E?style=flat-square&logo=amazonaws)  ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazonaws)  ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=amazonaws)  ![AWS DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=flat-square&logo=amazonaws)  ![GCP BigQuery](https://img.shields.io/badge/GCP%20BigQuery-4285F4?style=flat-square&logo=googlecloud)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter)  
 
 ### Soft Skills  
 Attention to Detail  
