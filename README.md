@@ -24,7 +24,7 @@ From developing **AI-powered whale detection technology** to improving **marketi
 
 <div>
 
-### ⚡ Tech Stack & Skills
+## ⚡ Tech Stack & Skills
 
 #### 🛠 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Drill](https://img.shields.io/badge/Drill-FFA500?style=flat-square) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -45,12 +45,6 @@ From developing **AI-powered whale detection technology** to improving **marketi
 ✔ **Attention to Detail** ✔ **Stakeholder Management** ✔ **Cross-functional Collaboration** ✔ **Problem-solving** ✔ **Process Documentation & Optimization**
 
 </div>
-
-## ⚡ Tech Stack & Projects
-
-#### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
 
 
 ## 🏆 Projects
