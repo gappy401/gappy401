@@ -299,67 +299,12 @@ Transformed energy grid management through ML-powered consumption forecasting an
 - Big Data Analytics with Spark
 
 </td>
-<td width="40%">
-
-**🔬 Research Highlights**
-- **Thesis**: "Deep Learning for Marine Acoustic Monitoring"
-- **Publication**: Featured in Marine Biology Journal
-- **Teaching**: ML Fundamentals (150+ students)
-- **Awards**: Outstanding Graduate Student Award
-
-</td>
 </tr>
 </table>
 
-**Bachelor of Technology in Computer Science**  
-*University of Technology* • 2016-2020  
-**GPA: 3.7/4.0** • Summa Cum Laude
 
----
 
-## 📝 Featured Writing & Talks
 
-<table>
-<tr>
-<td width="50%">
-
-**📰 Recent Articles**
-- [Building Production ML Pipelines at Scale](https://medium.com/@nandita/ml-pipelines-spark) • 2.3K reads
-- [Deep Learning for Marine Conservation](https://towardsdatascience.com/whale-detection-ml) • 5.1K reads  
-- [Modern Marketing Attribution with ML](https://medium.com/@nandita/marketing-attribution) • 1.8K reads
-- [LSTM Networks for Economic Forecasting](https://medium.com/@nandita/lstm-economics) • 3.2K reads
-
-</td>
-<td width="50%">
-
-**🎤 Speaking Engagements**
-- **PyData Global 2023** - "Scaling ML in Production"
-- **Strata Data Conference** - "AI for Conservation"
-- **MLOps World** - "Real-time Feature Engineering"
-- **Syracuse Tech Talks** - "Career in Data Science"
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Impact by the Numbers
-
-<div align="center">
-
-| Metric | Achievement | Domain |
-|--------|-------------|--------|
-| **$2.3M+** | Annual savings generated | Customer Analytics |
-| **91.73%** | Model accuracy achieved | Conservation AI |
-| **100K+** | Daily predictions served | Production ML |
-| **18%** | Marketing ROI improvement | Attribution Modeling |
-| **500+** | Research citations | Academic Impact |
-| **35%** | System downtime reduction | Predictive Maintenance |
-
-</div>
-
----
 
 ## 🚀 Current Focus
 
@@ -376,13 +321,3 @@ Currently developing next-generation acoustic monitoring systems that combine ed
 ---
 
 <div align="center">
-
-**Let's connect and build something amazing together**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandita-ghildyal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nandita.ghildyal@example.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nandita)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/nanditaghildyal)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=nandita)
-
-</div>
