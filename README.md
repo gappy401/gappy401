@@ -1,4 +1,4 @@
-# Nandita Ghildyal
+#                                                                          Nandita Ghildyal
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B1538&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Data+Scientist;MS+Applied+Data+Science;Building+ML+Solutions" alt="Typing SVG" />
