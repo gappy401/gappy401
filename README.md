@@ -4,10 +4,7 @@
 
 ## About  
 
-Machine Learning Engineer with experience at Gradiant AI and Dell Technologies, focused on creating scalable AI solutions that solve real-world problems.  
-I love working with data—whether it’s structuring databases or leveraging them for insights that drive smarter decisions.
-
-From industrial IoT anomaly detection to optimizing multi-million-dollar marketing strategies, I combine advanced analytics with business impact, making complex data accessible and valuable.
+Machine Learning Engineer with experience at Gradiant AI and Dell Technologies, focused on creating scalable AI solutions that solve real-world problems. I love working with data—whether it’s structuring databases or leveraging them for insights that drive smarter decisions. From industrial IoT anomaly detection to optimizing multi-million-dollar marketing strategies, I combine advanced analytics with business impact, making complex data accessible and valuable.
 
 ---
 
